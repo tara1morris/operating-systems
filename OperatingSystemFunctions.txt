@@ -1,3 +1,8 @@
 One of the functions of an operating system is managing memory. 
 Each program is assigned a certain amount of memroy and it is the operating systems job to store copies of files once the memory becomes to full. 
 When a program  needs to be executed it pulls stored copies of it to load it on the system.  
+
+Another function of an operating system is device management.
+The OS keeps track of all devices and is done by the I/O controller.
+It makes the decision on which system will activly use the device.
+it will control every aspect of a device with out issue.

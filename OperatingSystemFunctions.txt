@@ -6,3 +6,7 @@ Another function of an operating system is device management.
 The OS keeps track of all devices and is done by the I/O controller.
 It makes the decision on which system will activly use the device.
 it will control every aspect of a device with out issue.
+
+An important function of an operating system is security. 
+by utilizing a password it protects all of your files from others.
+Through that and other security techniues it determines who is allowed to access the system.

@@ -1,0 +1,3 @@
+One of the functions of an operating system is managing memory. 
+Each program is assigned a certain amount of memroy and it is the operating systems job to store copies of files once the memory becomes to full. 
+When a program  needs to be executed it pulls stored copies of it to load it on the system.  
